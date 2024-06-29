@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Official BGM (ARTMS Birth).mp3-d79eb40036a06ded0b4c65ab7155bcc1.mp3str"
+
+[deps]
+
+source_file="res://Asset/Music/Official BGM (ARTMS Birth).mp3"
+dest_files=[ "res://.import/Official BGM (ARTMS Birth).mp3-d79eb40036a06ded0b4c65ab7155bcc1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
